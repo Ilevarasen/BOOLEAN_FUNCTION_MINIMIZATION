@@ -36,9 +36,8 @@ Software – Quartus prime:
 
 ### PROGRAM:
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+![PROgram2](https://github.com/user-attachments/assets/575b9160-07d2-442f-ad43-12397ebcce08)
 
 
 ### RTL REALIZATION:
