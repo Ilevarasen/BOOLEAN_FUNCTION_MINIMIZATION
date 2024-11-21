@@ -1,7 +1,7 @@
 
 ### NAME: Ilevarasen.S
 ### REG NO:2400688
-### BOOLEAN_FUNCTION_MINIMIZATION
+### EXPERMENT:BOOLEAN_FUNCTION_MINIMIZATION
 
 ### AIM:
 
@@ -40,13 +40,15 @@ Software – Quartus prime:
 ![PROgram2](https://github.com/user-attachments/assets/575b9160-07d2-442f-ad43-12397ebcce08)
 
 
-### RTL REALIZATION:
+### LOGIC SYMBOL & TRUTHTABLE:
 
-### OUTPUT:
-
-### RTL:
 
 ### TIMING DIAGRAM:
+
+![logic circuit2](https://github.com/user-attachments/assets/281d0673-54b8-41a1-a1cb-b145d27eae4a)
+
+### RTL:
+![diagram2](https://github.com/user-attachments/assets/f3de0836-6cfa-4e79-9d7a-b8c13c4fc937)
 
 ### RESULT:
 
