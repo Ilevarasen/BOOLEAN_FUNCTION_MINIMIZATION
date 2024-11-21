@@ -42,6 +42,11 @@ Software – Quartus prime:
 
 ### LOGIC SYMBOL & TRUTHTABLE:
 
+![table2](https://github.com/user-attachments/assets/438f3cd1-26c0-4552-922c-eb8e1f12b247)
+
+
+
+![table1](https://github.com/user-attachments/assets/48aa8872-1520-42e1-b9d9-e3a5533c8c0d)
 
 ### TIMING DIAGRAM:
 
